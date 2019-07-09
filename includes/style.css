@@ -1,0 +1,15 @@
+.error{
+    border: 1px solid red;
+}
+.well{
+    box-shadow: 0.5px 0.5px 0.5px 0.5px #000;
+}
+table{
+    box-shadow: 0.5px 0.5px 0.5px 0.5px #000; 
+}
+body{
+    background:beige;
+}
+i {
+    background-color: #2759AE;
+ }
